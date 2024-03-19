@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chris
+- 👋 Hi, I’m Chris.
 - 👀 I’m interested in data, transport, geography, logistics, music, walking, running, cycling, team sports, comedy ...
 - 🌱 I’m currently learning Python!
 
